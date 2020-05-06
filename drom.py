@@ -1,6 +1,6 @@
 # -*- coding: utf8 -*-
 """
-Многопоточный парсер автомобилей
+Многопоточный парсер автомобилей drom.ru
 Версия: 0.1
 """
 from multiprocessing.dummy import Pool as ThreadPool
