@@ -4,3 +4,5 @@
 autoru.py - парсер с auto.ru
 
 dromru.py - парсер с drom.ru
+
+Autor: Irgit Valery https://github.com/tarbagan
