@@ -4,5 +4,3 @@
 autoru.py - парсер с auto.ru
 
 dromru.py - парсер с drom.ru
-
-requirements.txt - зависимости
